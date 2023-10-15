@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a235bc7c",
+    "name": "Fashion Expo and Runway Showcase",
+    "cover": "https://i.ibb.co/mF3C1DC/4fe21d5f6bd14e67fa4e6affd0ae110c.png",
+    "description": "A glamorous event showcasing the latest fashion trends, clothing, and accessories from renowned designers and brands. Includes live runway shows and entertainment.",
+    "category": "Entertainment",
+    "location": "Various Locations",
+    "price": 5000,
+    "specialFeatures": ["Live fashion shows", "Designer showcases", "Celebrity appearances"]
+  },
+  {
+    "id": "b3d45ca3",
+    "name": "Music Festival and Fashion Pop-Up",
+    "cover": "https://i.ibb.co/XZ2S2jn/UMF2023-0325-182012-7283-ALIVECOVERAGE.webp",
+    "description": "A music festival featuring top artists and bands along with a fashion pop-up area where attendees can shop for trendy clothing and accessories.",
+    "category": "Entertainment",
+    "location": "City Park",
+    "price": 2000,
+    "specialFeatures": ["Live music performances", "Fashion pop-up stalls", "Food trucks"]
+  },
+  {
+    "id": "f8a19d6e",
+    "name": "Film Premiere and Red Carpet Gala",
+    "cover": "https://i.ibb.co/vX1SqHb/975a347383221f093c07c79074800bc0.png",
+    "description": "The premiere of a highly-anticipated film followed by a red carpet gala event with celebrities, entertainment, and a focus on fashion.",
+    "category": "Entertainment",
+    "location": "Luxury Theater",
+    "price": 6000,
+    "specialFeatures": ["Film premiere", "Red carpet", "Celebrity meet and greet"]
+  },
+  {
+    "id": "c21e6982",
+    "name": "Art and Fashion Exhibition",
+    "cover": "https://i.ibb.co/0qMKmS5/36db28128eda961609bd5f9d22a61595.png",
+    "description": "An elegant event showcasing the synergy between art and fashion. Features art displays, fashion installations, and live art performances.",
+    "category": "Entertainment",
+    "location": "Art Gallery",
+    "price": 2500,
+    "specialFeatures": ["Art displays", "Fashion installations", "Live art performances"]
+  },
+  {
+    "id": "d9fc84b3",
+    "name": "Comedy Show and Fashion Showcase",
+    "cover": "https://i.ibb.co/HYx1GZJ/Jacques-Fath-Models-Vogue-1-Apr20-Herbert-Gehr-Leen-The-LIFE-Picture-Collection-Getty-Images.webp",
+    "description": "A hilarious night of stand-up comedy followed by a fashion showcase featuring emerging designers and comedic fashion commentary.",
+    "category": "Entertainment",
+    "location": "Comedy Club",
+    "price": 1500,
+    "specialFeatures": ["Stand-up comedy", "Fashion showcase", "Comedic fashion commentary"]
+  },
+  {
+    "id": "e5d54a0b",
+    "name": "Celebrity Gala and Charity Auction",
+    "cover": "https://i.ibb.co/zm9ws0J/Gala-SFBallet-DEV19-GAL-NR014-770x433.jpg",
+    "description": "An exclusive gala event attended by celebrities and VIPs. Includes a fashion show, charity auction, and entertainment.",
+    "category": "Entertainment",
+    "location": "Luxury Hotel",
+    "price": 8000,
+    "specialFeatures": ["Celebrity guests", "Fashion show", "Charity auction"]
+  }
+]
